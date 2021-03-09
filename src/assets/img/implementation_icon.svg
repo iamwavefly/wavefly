@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-implementacion</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 61.6 45.4416 61.6 45.4416 0.3904 0 0.3904"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-Copy-8" fill="#FFFFFF" cx="60" cy="60" r="44"></circle>
+        <g id="ico/implementation" transform="translate(37.000000, 29.000000)">
+            <g id="Group-5" stroke-width="1" fill-rule="evenodd" transform="translate(0.800000, 1.209680)" stroke="#484751" stroke-linecap="square">
+                <polyline id="Stroke-1" stroke-width="2.1056" points="43.58888 18.21104 43.58888 59.74704 0.25288 59.74704 0.25288 0.64304 33.74088 0.64304 43.58888 10.49904 43.58888 13.27744"></polyline>
+                <polyline id="Stroke-3" stroke-width="2.1056" stroke-linejoin="round" points="33.7408 6.988 33.7408 0.6432 43.5888 10.4992 35.7328 10.4992"></polyline>
+            </g>
+            <polyline id="Stroke-6" stroke="#484751" stroke-width="2.1056" stroke-linecap="square" points="34.5408 6.78088 34.5408 11.70888 36.5328 11.70888"></polyline>
+            <polygon id="Stroke-7" stroke="#484751" stroke-width="2.1056" stroke-linecap="square" points="8.2408 27.58648 37.2016 27.58648 37.2016 16.27128 8.2408 16.27128"></polygon>
+            <path d="M8.2404,33.49496 L37.2012,33.61976" id="Stroke-8" stroke="#484751" stroke-width="2.1056" stroke-linecap="square"></path>
+            <path d="M8.2404,35.59728 L8.2404,34.66128" id="Stroke-9" stroke="#484751" stroke-width="2.1056" stroke-linecap="square"></path>
+            <path d="M37.20136,35.59728 L37.20136,33.61968" id="Stroke-10" stroke="#484751" stroke-width="2.1056" stroke-linecap="square"></path>
+            <path d="M22.72088,35.59728 L22.72088,34.24768" id="Stroke-11" stroke="#484751" stroke-width="2.1056" stroke-linecap="square"></path>
+            <path d="M22.72088,29.77224 L22.72088,28.38664" id="Stroke-12" stroke="#484751" stroke-width="2.1056" stroke-linecap="square"></path>
+            <path d="M22.72088,49.52072 L22.72088,45.22072" id="Stroke-13" stroke="#484751" stroke-width="2.1056" stroke-linecap="square"></path>
+            <path d="M37.20136,49.52072 L37.20136,45.22072" id="Stroke-14" stroke="#484751" stroke-width="2.1056" stroke-linecap="square"></path>
+            <polygon id="Stroke-15" stroke="#484751" stroke-width="2.1056" stroke-linecap="square" points="5.3488 45.22008 11.1328 45.22008 11.1328 39.43528 5.3488 39.43528"></polygon>
+            <g id="Group-23" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 0.409680)">
+                <path d="M22.72088,54.89192 C21.12328,54.89192 19.82888,53.59672 19.82888,51.99992 C19.82888,50.40232 21.12328,49.10792 22.72088,49.10792 C24.31848,49.10792 25.61288,50.40232 25.61288,51.99992 C25.61288,53.59672 24.31848,54.89192 22.72088,54.89192 Z" id="Stroke-16" stroke="#484751" stroke-width="2.1056" stroke-linecap="square"></path>
+                <path d="M37.20136,54.89192 C35.60376,54.89192 34.30936,53.59672 34.30936,51.99992 C34.30936,50.40232 35.60376,49.10792 37.20136,49.10792 C38.79896,49.10792 40.09336,50.40232 40.09336,51.99992 C40.09336,53.59672 38.79896,54.89192 37.20136,54.89192 Z" id="Stroke-18" stroke="#484751" stroke-width="2.1056" stroke-linecap="square"></path>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-21"></g>
+                <polygon id="Stroke-20" stroke="#484751" stroke-width="2.1056" stroke-linecap="square" mask="url(#mask-2)" points="19.8288 44.8144 40.0936 44.8144 40.0936 39.0224 19.8288 39.0224"></polygon>
+                <path d="M11.26696,41.91808 L15.86696,41.91808" id="Stroke-22" stroke="#484751" stroke-width="2.1056" stroke-linecap="square" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

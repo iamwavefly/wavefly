@@ -1,0 +1,45 @@
+.header_section{
+    width: 80%;
+    height: 80vh;
+    margin: 0 auto;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: repeat(2, 1fr);
+}
+.header_section p{
+    background-image: linear-gradient(to bottom, #F85032, #E73827);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 15px;
+    font-weight: 200;
+}
+.header_section h1{
+    font-size: 40px;
+    color: #332d2d;
+    line-height: 3rem;
+    font-weight: 200;
+}
+.right_section{
+    position: relative;
+}
+.right_section img{
+    position: absolute;
+}
+.right_section img:first-child{
+    top: -12rem;
+    left: 10rem;
+    width: 90%;
+}
+.right_section img:nth-child(2){
+    top: -10rem;
+    left: 3rem;
+    width: 20%;
+    transform: rotate(25deg);
+}
+.right_section img:nth-child(3){
+    top: 6rem;
+    left: 10rem;
+    transform: rotate(-60deg);
+}

@@ -1,0 +1,9 @@
+.re-button{
+    background-image: linear-gradient(to bottom, #F85032, #E73827);
+    text-decoration: none;
+    border-radius: 5rem;
+    color: #f9f7f7;
+    padding: 4px 26px;
+    position: relative;
+    top: 30px;
+}

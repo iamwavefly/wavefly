@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-mejora</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="ico-mejora" fill="#FFFFFF" cx="60" cy="60" r="44"></circle>
+        <g id="ico/bulb" transform="translate(38.000000, 26.000000)" stroke="#484751" stroke-linecap="square">
+            <path d="M13.7364,58.90992 L30.3172,58.90992" id="Stroke-1" stroke-width="2.1056"></path>
+            <path d="M13.7364,54.41584 L30.3172,54.41584" id="Stroke-2" stroke-width="2.1056"></path>
+            <path d="M14.24344,49.92128 L31.94344,49.92128" id="Stroke-3" stroke-width="2.1056"></path>
+            <g id="Group-28" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 0.456800)">
+                <path d="M18.6028,62.94728 L25.45,62.94728" id="Stroke-4" stroke-width="2.1056"></path>
+                <path d="M32.18016,44.86952 C32.80736,40.90712 34.37776,37.13512 36.65376,33.77192 C38.56176,30.95352 39.67536,27.55352 39.67536,23.89432 C39.67536,13.77352 31.15776,5.64312 20.90016,6.27992 C11.86656,6.84072 4.62176,14.37112 4.38416,23.41912 C4.27856,27.42712 5.50976,31.14232 7.66416,34.15272 C10.70016,38.39512 12.17696,43.55752 12.17696,48.77432 L12.17696,49.46472 L31.87536,49.46472" id="Stroke-6" stroke-width="2.1056"></path>
+                <path d="M20.19504,49.21256 C20.19504,49.21256 18.94224,32.38296 18.70544,27.66376 C18.57504,25.06136 18.37664,21.51896 15.02544,21.51896 C12.88704,21.51896 11.24464,22.91656 11.24464,25.43656 C11.24464,29.25816 15.96144,29.00296 18.70544,28.86696 L21.39344,28.86696" id="Stroke-8" stroke-width="2.1056"></path>
+                <path d="M23.85832,49.21256 C23.85832,49.21256 25.07832,32.81256 25.34792,27.66376 C25.48392,25.06216 25.67672,21.51896 29.02792,21.51896 C31.16632,21.51896 32.80792,22.91656 32.80792,25.43656 C32.80792,27.64056 31.48312,28.73016 29.38392,28.78536 L29.06712,28.78536" id="Stroke-10" stroke-width="2.1056"></path>
+                <path d="M22.02624,1.47032 L22.02624,0.59592" id="Stroke-12" stroke-width="2.1056"></path>
+                <path d="M22.02624,1.47032 L22.02624,0.59592" id="Stroke-14" stroke-width="2.1056"></path>
+                <path d="M9.2528,5.62072 L8.7384,4.91352" id="Stroke-16" stroke-width="2.1056"></path>
+                <path d="M1.35832,16.48672 L0.52712,16.21712" id="Stroke-18" stroke-width="2.1056"></path>
+                <path d="M43.52624,30.18792 L42.69504,29.91832" id="Stroke-20" stroke-width="2.1056"></path>
+                <path d="M1.35832,29.918 L0.52712,30.1876" id="Stroke-22" stroke-width="2.1056"></path>
+                <path d="M43.52624,16.2168 L42.69504,16.4864" id="Stroke-24" stroke-width="2.1056"></path>
+                <path d="M35.31456,4.91368 L34.80016,5.62088" id="Stroke-26" stroke-width="2.1056"></path>
+            </g>
+        </g>
+        <g id="Group-2-Copy-4" transform="translate(3.000000, 2.000000)" stroke="#E42451">
+            <path d="M109.964459,34.3264623 C100.907892,14.0952225 80.6000038,0 57,0 C32.920016,0 12.2674205,14.6743941 3.49698845,35.5684071 M4.43084962,82.537463 C13.6734466,102.304923 33.737395,116 57,116 C80.4479383,116 100.646049,102.085836 109.787993,82.0638484" id="Oval-3"></path>
+            <polyline id="Rectangle-Copy-6" transform="translate(5.244944, 31.244944) rotate(67.000000) translate(-5.244944, -31.244944) " points="9.24494393 27.2449439 9.24494393 35.2449439 1.24494393 35.2449439"></polyline>
+            <polyline id="Rectangle-Copy-7" transform="translate(108.047190, 86.742014) rotate(244.000000) translate(-108.047190, -86.742014) " points="112.04719 82.7420142 112.04719 90.7420142 104.04719 90.7420142"></polyline>
+        </g>
+    </g>
+</svg>

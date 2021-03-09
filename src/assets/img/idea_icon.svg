@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-problema</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#FFFFFF" cx="60" cy="60" r="44"></circle>
+        <g id="ico/person-bulb" transform="translate(32.000000, 28.000000)" stroke="#484751" stroke-linecap="square">
+            <path d="M25.21,31.47072 L31.8436,31.47072" id="Stroke-1" stroke-width="2.1056"></path>
+            <path d="M26.67408,35.04216 L30.38048,35.04216" id="Stroke-2" stroke-width="2.1056"></path>
+            <g id="Group-25" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 0.000160)">
+                <path d="M33.00376,23.33696 C33.25336,22.78736 33.55176,22.25696 33.89256,21.75216 C34.59256,20.71856 35.00136,19.47056 35.00136,18.12816 C35.00136,14.41536 31.87736,11.43296 28.11416,11.66656 C24.79976,11.87216 22.14216,14.63536 22.05416,17.95376 C22.01656,19.42416 22.46776,20.78736 23.25816,21.89136 C24.37176,23.44816 24.91416,25.34176 24.91416,27.25536 L24.91416,27.50896 L32.14056,27.50896" id="Stroke-3" stroke-width="2.1056"></path>
+                <path d="M28.5272,7.03344 L28.5272,6.59904" id="Stroke-5" stroke-width="2.1056"></path>
+                <path d="M22.18032,9.09592 L21.92512,8.74472" id="Stroke-7" stroke-width="2.1056"></path>
+                <path d="M18.25768,14.49472 L17.84408,14.36112" id="Stroke-9" stroke-width="2.1056"></path>
+                <path d="M39.21,21.30256 L38.7964,21.16896" id="Stroke-11" stroke-width="2.1056"></path>
+                <path d="M18.25768,21.16856 L17.84408,21.30216" id="Stroke-13" stroke-width="2.1056"></path>
+                <path d="M39.21,14.3608 L38.7964,14.4944" id="Stroke-15" stroke-width="2.1056"></path>
+                <path d="M35.12952,8.74432 L34.87432,9.09552" id="Stroke-17" stroke-width="2.1056"></path>
+                <path d="M47.77168,32.24552 C49.65648,28.84472 50.44768,24.77032 50.15328,20.53992 C49.40848,9.83912 40.76048,1.12872 30.06528,0.31752 C17.63088,-0.62568 7.18848,8.84712 6.54608,20.92152 L0.02688,35.43592 L6.69328,35.43592 L6.69328,46.29432 C6.69328,49.23192 9.07568,51.61352 12.01408,51.61352 L22.16048,51.61352" id="Stroke-19" stroke-width="2.1056"></path>
+                <polyline id="Stroke-21" stroke-width="2.1056" points="44.4272 58.94712 44.4272 51.61352 44.4272 37.52072"></polyline>
+                <path d="M22.1608,51.61392 L22.1608,58.94752" id="Stroke-23" stroke-width="2.1056"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-investigacion</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-Copy-6" fill="#FFFFFF" cx="60" cy="60" r="44"></circle>
+        <g id="ico/writing" transform="translate(30.000000, 30.000000)" stroke="#484751" stroke-linecap="square">
+            <path d="M27.72224,15.41376 L41.45184,15.41376" id="Stroke-1" stroke-width="2.1056"></path>
+            <path d="M16.86832,15.41376 L21.92512,15.41376" id="Stroke-2" stroke-width="2.1056"></path>
+            <path d="M16.86832,22.67632 L36.82752,22.67632" id="Stroke-3" stroke-width="2.1056"></path>
+            <path d="M24.62224,29.9388 L30.00224,29.9388" id="Stroke-4" stroke-width="2.1056"></path>
+            <path d="M16.86832,29.9388 L19.39712,29.9388" id="Stroke-5" stroke-width="2.1056"></path>
+            <path d="M16.86832,37.20208 L30.00192,37.20208" id="Stroke-6" stroke-width="2.1056"></path>
+            <g id="Group-23" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 0.404320)">
+                <polyline id="Stroke-7" stroke-width="2.1056" points="9.42072 44.98448 9.42072 0.64848 40.73272 0.64848 50.58072 10.50448 50.58872 11.30448 50.58872 13.31808"></polyline>
+                <path d="M50.58864,30.75632 L50.58864,45.69632 C50.58864,50.80112 46.44464,54.94432 41.34064,54.94432 L9.42064,54.94432" id="Stroke-9" stroke-width="2.1056"></path>
+                <path d="M39.86208,51.38912 C38.70208,49.87072 38.01168,47.97312 38.01168,45.91472 L38.01168,45.78112 L9.41808,45.78112 L0.25248,45.78112 L0.25248,45.91472 C0.25248,50.90192 4.29808,54.94672 9.28448,54.94672 L9.41808,54.94672 L39.97568,54.94672" id="Stroke-11" stroke-width="2.1056"></path>
+                <polyline id="Stroke-13" stroke-width="2.1056" points="40.73712 1.65944 40.73712 5.57704 40.73712 10.50504 42.72832 10.50504 49.12192 10.50504"></polyline>
+                <polygon id="Stroke-15" stroke-width="2.1056" points="40.9676 34.4688 37.2444 35.556 36.8276 35.14 37.9148 31.416 56.8348 12.496 59.8868 15.5496"></polygon>
+                <path d="M37.03552,35.34776 L35.58592,36.79736" id="Stroke-17" stroke-width="2.1056"></path>
+                <path d="M59.84104,20.31416 L54.84504,25.31016" id="Stroke-19" stroke-width="2.1056"></path>
+                <path d="M54.42848,14.90168 L57.48128,17.95448" id="Stroke-21" stroke-width="2.1056"></path>
+            </g>
+        </g>
+    </g>
+</svg>

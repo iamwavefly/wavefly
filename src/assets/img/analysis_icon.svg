@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-analisis</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-Copy-9" fill="#FFFFFF" cx="60" cy="60" r="44"></circle>
+        <g id="ico/eye" transform="translate(30.000000, 37.000000)" stroke="#484751" stroke-linecap="square" stroke-width="2.1056">
+            <path d="M56.83496,19.35376 C58.88536,21.52576 60.04376,23.06256 60.04376,23.06256 C60.04376,23.06256 46.81976,40.90096 30.27896,40.90096 C13.73816,40.90096 0.51496,23.06256 0.51496,23.06256 C0.51496,23.06256 13.96296,5.22416 30.27896,5.22416 C39.22376,5.22416 47.30616,10.58496 52.78456,15.42976" id="Stroke-1"></path>
+            <path d="M37.19864,23.0624 C37.19864,26.884 34.10024,29.9816 30.27944,29.9816 C26.45784,29.9816 23.35944,26.884 23.35944,23.0624 C23.35944,19.2416 26.45784,16.1432 30.27944,16.1432" id="Stroke-3"></path>
+            <path d="M42.93424,23.0624 C42.93424,30.0512 37.26784,35.7176 30.27904,35.7176 C23.29024,35.7176 17.62384,30.0512 17.62384,23.0624 C17.62384,16.0736 23.29024,10.408 30.27904,10.408 C37.26784,10.408 42.93424,16.0736 42.93424,23.0624 Z" id="Stroke-5"></path>
+            <path d="M30.27912,0.25304 L30.27912,1.30744" id="Stroke-7"></path>
+            <path d="M40.7104,1.77488 L40.4144,2.78768" id="Stroke-9"></path>
+            <path d="M50.41352,6.46704 L49.87752,7.37584" id="Stroke-11"></path>
+            <path d="M58.13696,12.53816 L57.45616,13.34456" id="Stroke-13"></path>
+            <path d="M19.84792,1.77488 L20.14392,2.78768" id="Stroke-15"></path>
+            <path d="M10.1448,6.46704 L10.6808,7.37584" id="Stroke-17"></path>
+            <path d="M2.42136,12.53816 L3.10216,13.34456" id="Stroke-19"></path>
+            <path d="M30.27912,45.87176 L30.27912,44.81736" id="Stroke-21"></path>
+            <path d="M19.84792,44.34992 L20.14392,43.33712" id="Stroke-23"></path>
+            <path d="M10.1448,39.65848 L10.6808,38.74968" id="Stroke-25"></path>
+            <path d="M2.42136,33.58736 L3.10216,32.78016" id="Stroke-27"></path>
+            <path d="M40.7104,44.34992 L40.4144,43.33712" id="Stroke-29"></path>
+            <path d="M50.41352,39.65848 L49.87752,38.74968" id="Stroke-31"></path>
+            <path d="M58.13696,33.58736 L57.45616,32.78016" id="Stroke-33"></path>
+        </g>
+    </g>
+</svg>

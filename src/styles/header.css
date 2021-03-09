@@ -1,0 +1,33 @@
+.navbar{
+    width: 80%;
+    height: 5rem;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 12rem 19rem;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar .logo img{
+    width: 80%;
+    object-fit: contain;
+}
+.navbar ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+}
+.navbar ul li:last-child a{
+    position: relative;
+    background-image: linear-gradient(to bottom, #F85032, #E73827);
+    border-radius: 5rem;
+    padding: 4px 26px;
+    color: #f9f7f7;
+    font-weight: 300;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: #1f3644;
+    font-size: 15px;
+    font-weight: 200;
+}

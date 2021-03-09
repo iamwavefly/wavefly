@@ -1,0 +1,68 @@
+.service_container{
+    width: 80%;
+    height: 80vh;
+    margin: 0 auto;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-rows: 10rem 1fr;
+    grid-template-columns: 1fr;
+    margin-top: 6rem;
+}
+.service_container .header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.service_container .subtitle{
+    background-image: linear-gradient(to bottom, #F85032, #E73827);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 15px;
+    font-weight: 300;
+}
+.service_container .title{
+    font-size: 30px;
+    color: #332d2d;
+    font-weight: 200;
+}
+.service_container > .services{
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: center;
+    align-items: center;
+}
+.service_container > .services > div{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+.service_container > .services > div > div{
+    width: 100%;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+}
+.service_container > .services img{
+    width: 90%;
+    height: 90%;
+    object-fit: contain;
+}
+.service_container > .services  h2{
+    font-size: 20px;
+    color: #332d2d;
+    font-weight: 300;
+}
+.service_container > .services p{
+    font-size: 14px;
+    color: #332d2d;
+    font-weight: 200;
+    text-align: center;
+}
