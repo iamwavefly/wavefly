@@ -9,19 +9,19 @@
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="2"/>
+<feOffset dy="3"/>
 <feGaussianBlur stdDeviation="0.5"/>
 <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
 </filter>
 <linearGradient id="paint0_linear" x1="76.101" y1="8.09586" x2="4.35392e-06" y2="40.8031" gradientUnits="userSpaceOnUse">
-<stop stop-color="#E73827"/>
-<stop offset="1" stop-color="#F85032"/>
+<stop stop-color="#E89B28"/>
+<stop offset="1" stop-color="#D57226"/>
 </linearGradient>
 <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(54.5829 38.4171) rotate(90) scale(3.41711)">
-<stop stop-color="#F85032"/>
-<stop offset="1" stop-color="#E73827"/>
+<stop stop-color="#D57226"/>
+<stop offset="1" stop-color="#C4641A"/>
 </radialGradient>
 </defs>
 </svg>

@@ -23,23 +23,11 @@
 }
 .right_section{
     position: relative;
+    z-index: 999;
 }
 .right_section img{
     position: absolute;
-}
-.right_section img:first-child{
-    top: -12rem;
-    left: 10rem;
-    width: 90%;
-}
-.right_section img:nth-child(2){
-    top: -10rem;
-    left: 3rem;
-    width: 20%;
-    transform: rotate(25deg);
-}
-.right_section img:nth-child(3){
-    top: 6rem;
-    left: 10rem;
-    transform: rotate(-60deg);
+    top: -14rem;
+    left: -4rem;
+    width: 140%;
 }

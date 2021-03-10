@@ -19,11 +19,12 @@
 }
 .navbar ul li:last-child a{
     position: relative;
-    background-image: linear-gradient(to bottom, #F85032, #E73827);
+    background-image: linear-gradient(to bottom, #E89B28, #D57226);
     border-radius: 5rem;
     padding: 4px 26px;
-    color: #f9f7f7;
+    color: #ffffff;
     font-weight: 300;
+    box-shadow: 0 0 10px rgba(27, 18, 0, 0.1);
 }
 .navbar ul li a{
     text-decoration: none;

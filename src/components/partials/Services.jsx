@@ -32,7 +32,7 @@ function Services() {
                         <img src={WebAppImg} alt="web application" />
                     </div>
                     <h2>Web Application</h2>
-                    <p>Development of complex web applications and web portals. </p>
+                    <p>Development of complex web applications and web portals with top rated developers around the world. </p>
                 </div>
                 <div className="service-4">
                     <div className="service_img">
